@@ -17,7 +17,7 @@ for file in os.listdir(path):
 with open("thekey.key", "rb") as thekey:
 	super_key = thekey.read()  #The key to decrypt the data
 
-phrase = "Football"   #Keeping a secret phase for fun
+phrase = "Football"   #Keeping a secret phrase for fun
 userInput = input("Enter the secret phrase: ")
 
 if userInput == phrase:
