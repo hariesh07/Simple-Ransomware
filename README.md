@@ -21,3 +21,5 @@ The key generated from encrypt.py will decrypt the files.
 Just for fun a phrase was included, which is changeable. 
 The phrase used here is "Football".
 
+### Disclaimer
+This is purely for educational purposes.
