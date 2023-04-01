@@ -9,7 +9,7 @@ pip install -r requirements.txt
 1.  encrypt.py
 2.  decrypt.py
 
-## Descripion of Files
+## Description of Files
 ### encrypt.py
 Contains the code which is responsible for the encryption of the given data.
 Enter the path of the directory whose files are to be encrypted.
